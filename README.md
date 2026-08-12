@@ -21,16 +21,9 @@
 ## 🧑‍💻 About Me
 
 🎓 **B.Tech Computer Science & Engineering Student**
-
 💻 Passionate about **programming, problem solving, and software development**
-
 🌱 Currently improving my skills in **Java, C, DSA, and Web Development**
-
-🚀 Building projects to turn what I learn into practical experience
-
 🤝 Interested in **Open Source & collaborative development**
-
-🎯 **Long-term goal:** Become a skilled Software Engineer and build impactful products.
 
 ---
 
@@ -67,13 +60,13 @@
 ## 📚 Currently Learning
 
 ```text
-Java                    █████████░░  80%
-C Programming           █████████░░  80%
-Data Structures         ██████░░░░░  60%
-Algorithms              █████░░░░░░  50%
-HTML & CSS              ████████░░░  75%
-JavaScript              █████░░░░░░  50%
-Git & GitHub             ████████░░░  75%
+Java                   
+C Programming           
+Data Structures        
+Algorithms              
+HTML & CSS             
+JavaScript             
+Git & GitHub          
 ```
 
 > 💡 Progress is based on my current learning journey and will evolve over time.
