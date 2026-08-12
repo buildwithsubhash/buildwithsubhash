@@ -1,93 +1,165 @@
-# Hi there! 👋 I'm Subhash Thakur
+# 👋 Hi, I'm Subhash Thakur
 
-### 🚀 B.Tech Computer Science & Engineering Student
+### 🚀 B.Tech CSE Student | Aspiring Software Engineer | Problem Solver
 
-I'm a passionate Computer Science student who enjoys learning new technologies and building projects that solve real-world problems. Currently, I'm strengthening my programming fundamentals while exploring software development and modern web technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+%7C+C+%7C+DSA+Learner;Building+Projects+%26+Learning+Every+Day;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/buildwithsubhash">
+    <img src="https://img.shields.io/github/followers/buildwithsubhash?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/buildwithsubhash">
+    <img src="https://img.shields.io/github/stars/buildwithsubhash?label=Stars&style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=buildwithsubhash&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 B.Tech CSE Student (3rd Semester)
+🎓 **B.Tech Computer Science & Engineering Student**
 
-🌱 Currently learning
-- Java
-- Data Structures & Algorithms
-- C Programming
-- HTML & CSS
-- JavaScript
-- Git & GitHub
+💻 Passionate about **programming, problem solving, and software development**
 
-🎯 Goal
-Become a skilled Software Engineer by building real-world projects and contributing to open source.
+🌱 Currently improving my skills in **Java, C, DSA, and Web Development**
+
+🚀 Building projects to turn what I learn into practical experience
+
+🤝 Interested in **Open Source & collaborative development**
+
+🎯 **Long-term goal:** Become a skilled Software Engineer and build impactful products.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- Java
-- C
-- Python (Basics)
+### 💻 Programming
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,python" />
+</p>
 
-### Tools
-- Git
-- GitHub
-- VS Code
+### 🌐 Web Development
 
-### AI Tools
-- ChatGPT
-- Claude
-- Gemini
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
----
+### ⚙️ Tools & Technologies
 
-## 📈 Current Focus
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-- Master Java Programming
-- Learn Data Structures & Algorithms
-- Build Full Stack Projects
-- Improve Problem Solving
-- Contribute to Open Source
+### 🤖 AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-✔ Object-Oriented Programming
+```text
+Java                    █████████░░  80%
+C Programming           █████████░░  80%
+Data Structures         ██████░░░░░  60%
+Algorithms              █████░░░░░░  50%
+HTML & CSS              ████████░░░  75%
+JavaScript              █████░░░░░░  50%
+Git & GitHub             ████████░░░  75%
+```
 
-✔ Git & GitHub
-
-✔ Frontend Development
-
-✔ Java Programming
-
----
-
-## 📫 Connect with Me
-
-GitHub:
-https://github.com/buildwithsubhash
+> 💡 Progress is based on my current learning journey and will evolve over time.
 
 ---
 
-> "Every expert was once a beginner who refused to quit."
+## 🎯 2026 Goals
+
+* [ ] Master Java Programming
+* [ ] Strengthen Data Structures & Algorithms
+* [ ] Solve 300+ programming problems
+* [ ] Build 10+ meaningful projects
+* [ ] Learn React.js
+* [ ] Learn Node.js & backend development
+* [ ] Contribute to Open Source
+* [ ] Build and deploy a personal portfolio
+* [ ] Become a better problem solver
+
+---
+
+## 🚀 Featured Projects
+
+> More projects coming as I continue building and learning.
+
+| Project             | Description                                         | Technologies            |
+| ------------------- | --------------------------------------------------- | ----------------------- |
+| ☕ Java Fundamentals | Java programming fundamentals and practice programs | Java                    |
+| 💻 C Programming    | Core C programming concepts and problem solving     | C                       |
+| 🧠 DSA Practice     | Data Structures & Algorithms practice               | Java / C                |
+| 🌐 Web Projects     | Beginner-friendly web development projects          | HTML / CSS / JavaScript |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buildwithsubhash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithsubhash&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=buildwithsubhash&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=buildwithsubhash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsubhash&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/buildwithsubhash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/subhash-thakur-4u/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💭 "Code. Learn. Build. Repeat."
+
+⭐ **If you find my projects useful, consider giving them a star!**
 
 </p>
