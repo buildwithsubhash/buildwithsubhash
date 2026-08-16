@@ -26,8 +26,8 @@ Code • Learn • Build • Repeat
 
 <p align="center">
 
-<a href="https://github.com/buildwithsubhash">{=html}<img src="https://img.shields.io/github/followers/buildwithsubhash?style=for-the-badge&logo=github&label=Followers"/>{=html}</a>{=html}
-<img src="https://komarev.com/ghpvc/?username=buildwithsubhash&style=for-the-badge&color=orange"/>{=html}
+<a href="https://github.com/buildwithsubhash"><img src="https://img.shields.io/github/followers/buildwithsubhash?style=for-the-badge&logo=github&label=Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=buildwithsubhash&style=for-the-badge&color=orange"/>
 
 </p>
 
@@ -59,7 +59,7 @@ Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,c,python"/>{=html}
+<img src="https://skillicons.dev/icons?i=java,c,python"/>
 
 </p>
 
@@ -67,7 +67,7 @@ Web
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>{=html}
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
 </p>
 
@@ -75,7 +75,7 @@ Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>{=html}
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
@@ -83,9 +83,9 @@ AI
 
 <p>
 
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>{=html}
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>{=html}
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>{=html}
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 </p>
 
@@ -130,7 +130,7 @@ Build Portfolio Website
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=buildwithsubhash&theme=tokyonight&hide_border=true"/>{=html}
+<img src="https://streak-stats.demolab.com?user=buildwithsubhash&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -138,7 +138,7 @@ Build Portfolio Website
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/buildwithsubhash?theme=dark&font=baloo&ext=contest"/>{=html}
+<img src="https://leetcard.jacoblin.cool/buildwithsubhash?theme=dark&font=baloo&ext=contest"/>
 
 </p>
 
@@ -146,7 +146,7 @@ Build Portfolio Website
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsubhash&theme=tokyo-night&hide_border=true"/>{=html}
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsubhash&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -164,9 +164,9 @@ Portfolio Website   🔜 Coming Soon
 
 <p align="center">
 
-<a href="https://github.com/buildwithsubhash">{=html}<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}</a>{=html}
-<a href="https://www.linkedin.com/in/subhash-thakur-4u/">{=html}<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>{=html}</a>{=html}
-<a href="https://leetcode.com/u/buildwithsubhash/">{=html}<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>{=html}</a>{=html}
+<a href="https://github.com/buildwithsubhash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/subhash-thakur-4u/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/buildwithsubhash/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 </p>
 
