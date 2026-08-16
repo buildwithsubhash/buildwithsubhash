@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="./banner.png" width="100%" alt="Subhash Thakur Banner"/>{=html}
+<img src="./banner.png" width="100%" alt="Subhash Thakur Banner"/>
 
 </p>
 
