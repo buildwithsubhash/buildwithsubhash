@@ -172,7 +172,7 @@ Portfolio Website   🔜 Coming Soon
 
 <p align="center">
 
-<b>{=html}💭 "Consistency beats intensity. Every commit is an
+<b>💭 "Consistency beats intensity. Every commit is an
 investment in your future."</b>{=html}
 
 </p>
