@@ -1,184 +1,227 @@
-<!-- ========================= BANNER ========================= -->
+<!DOCTYPE html>
+<html lang="en">
 
-<p align="center">
+<head>
 
-<img src="./banner.png" width="100%" alt="Subhash Thakur Banner"/>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-</p>
+<title>Subhash Thakur | Full Stack Developer</title>
 
-<h1 align="center">
+<meta name="description" content="Professional Portfolio of Subhash Thakur">
+<meta name="keywords" content="Portfolio, Web Developer, Java Developer, Full Stack Developer">
+<meta name="author" content="Subhash Thakur">
 
-Hi 👋, I'm Subhash Thakur
+<link rel="icon" href="assets/favicon.png">
+
+<!-- Google Fonts -->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+
+<!-- Font Awesome -->
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+<!-- AOS -->
+
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+<!-- CSS -->
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<!-- ========================= -->
+<!-- Progress Bar -->
+<!-- ========================= -->
+
+<div id="progress-bar"></div>
+
+<!-- ========================= -->
+<!-- Custom Cursor -->
+<!-- ========================= -->
+
+<div class="cursor"></div>
+
+<div class="cursor2"></div>
+
+<!-- ========================= -->
+<!-- Theme Switcher -->
+<!-- ========================= -->
+
+<div class="theme-switcher">
+
+<button class="theme-btn crimson" data-theme="crimson"></button>
+
+<button class="theme-btn blue" data-theme="blue"></button>
+
+<button class="theme-btn purple" data-theme="purple"></button>
+
+<button class="theme-btn green" data-theme="green"></button>
+
+<button class="theme-btn orange" data-theme="orange"></button>
+
+</div>
+
+<!-- ========================= -->
+<!-- Navigation -->
+<!-- ========================= -->
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+
+<h2>SUBHASH</h2>
+
+</div>
+
+<ul class="nav-links">
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#skills">Skills</a></li>
+
+<li><a href="#projects">Projects</a></li>
+
+<li><a href="#education">Education</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+<div class="nav-right">
+
+<button id="darkMode">
+
+<i class="fas fa-moon"></i>
+
+</button>
+
+<div class="menu-btn">
+
+<i class="fas fa-bars"></i>
+
+</div>
+
+</div>
+
+</nav>
+
+</header>
+
+<!-- ========================= -->
+<!-- Hero -->
+<!-- ========================= -->
+
+<section class="hero" id="home">
+
+<div id="particles-js"></div>
+
+<div class="hero-content">
+
+<div class="hero-left" data-aos="fade-right">
+
+<h4>Hello, I'm</h4>
+
+<h1>
+
+Subhash
+
+<span>Thakur</span>
 
 </h1>
 
-<h3 align="center">
+<h3>
 
-🚀 B.Tech CSE Student | Aspiring Software Engineer | Problem Solver
+<span id="typing"></span>
 
 </h3>
 
-<p align="center">
-
-Code • Learn • Build • Repeat
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/buildwithsubhash"><img src="https://img.shields.io/github/followers/buildwithsubhash?style=for-the-badge&logo=github&label=Followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=buildwithsubhash&style=for-the-badge&color=orange"/>
-
-</p>
-
-👨‍💻 About Me
-
-🎓 B.Tech Computer Science & Engineering (3rd Semester)
-
-💻 Passionate about Software Development & Problem Solving
-
-🌱 Currently learning Java, C, DSA, HTML, CSS, JavaScript and Git
-
-🤝 Interested in Open Source
-
-🎯 Goal: Become a Software Engineer and build impactful products.
-
-🚀 Current Focus
-
-Master Java
-
-Solve DSA problems daily
-
-Build real-world projects
-
-Learn Full Stack Development
-
-🛠️ Tech Stack
-
-Languages
-
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,c,python"/>
+Passionate B.Tech CSE student focused on creating modern,
+responsive and high-performance web applications while
+continuously learning Java, DSA and Full Stack Development.
 
 </p>
 
-Web
+<div class="hero-buttons">
 
-<p>
+<a href="#projects" class="btn">
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+View Projects
 
-</p>
+</a>
 
-Tools
+<a href="#contact" class="btn-outline">
 
-<p>
+Hire Me
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</a>
 
-</p>
+</div>
 
-AI
+<div class="socials">
 
-<p>
+<a href="#">
 
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<i class="fab fa-github"></i>
 
-</p>
+</a>
 
-📚 Currently Learning
+<a href="#">
 
-Java
+<i class="fab fa-linkedin"></i>
 
-C Programming
+</a>
 
-Data Structures & Algorithms
+<a href="#">
 
-HTML, CSS & JavaScript
+<i class="fab fa-instagram"></i>
 
-Git & GitHub
+</a>
 
-🎯 Goals
+<a href="#">
 
-Master Java
+<i class="fab fa-x-twitter"></i>
 
-Solve 300+ LeetCode problems
+</a>
 
-Learn React
+</div>
 
-Learn Node.js
+</div>
 
-Build 10+ Projects
+<div class="hero-right" data-aos="fade-left">
 
-Contribute to Open Source
+<div class="image-wrapper">
 
-Build Portfolio Website
+<div class="glow"></div>
 
-📊 GitHub Stats
+<img src="assets/profile.png" alt="Subhash">
 
-<p align="center">
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=buildwithsubhash&show_icons=true&theme=tokyonight&hide_border=true"/>{=html}
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithsubhash&layout=compact&theme=tokyonight&hide_border=true"/>{=html}
+</div>
 
-</p>
+</div>
 
-🔥 GitHub Streak
+<div class="scroll-down">
 
-<p align="center">
+<span></span>
 
-<img src="https://streak-stats.demolab.com?user=buildwithsubhash&theme=tokyonight&hide_border=true"/>
+</div>
 
-</p>
-
-💻 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/buildwithsubhash?theme=dark&font=baloo&ext=contest"/>
-
-</p>
-
-📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsubhash&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-🚀 Featured Projects
-
-Project             Status
-
-Java Fundamentals   🟢 Active
-C Programming       🟢 Active
-DSA Java            🚧 Learning
-Web Projects        🟢 Active
-Portfolio Website   🔜 Coming Soon
-
-🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/buildwithsubhash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/subhash-thakur-4u/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/buildwithsubhash/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-
-</p>
-
-<p align="center">
-
-<b>💭 "Consistency beats intensity. Every commit is an
-investment in your future."</b>{=html}
-
-</p>
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
+</section>
