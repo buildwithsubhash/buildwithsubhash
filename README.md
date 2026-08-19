@@ -1,227 +1,210 @@
-<!DOCTYPE html>
-<html lang="en">
+# <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Subhash+Thakur;B.Tech+CSE+Student;Java+Developer+%7C+Web+Developer;Learning+DSA+%26+Full+Stack+Development;Building+Projects+Every+Day+🚀" />
 
-<head>
+<div align="center">
 
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+# 🚀 Welcome to My GitHub
 
-<title>Subhash Thakur | Full Stack Developer</title>
-
-<meta name="description" content="Professional Portfolio of Subhash Thakur">
-<meta name="keywords" content="Portfolio, Web Developer, Java Developer, Full Stack Developer">
-<meta name="author" content="Subhash Thakur">
-
-<link rel="icon" href="assets/favicon.png">
-
-<!-- Google Fonts -->
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
-
-<!-- Font Awesome -->
-
-<link rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
-
-<!-- AOS -->
-
-<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
-
-<!-- CSS -->
-
-<link rel="stylesheet" href="style.css">
-
-</head>
-
-<body>
-
-<!-- ========================= -->
-<!-- Progress Bar -->
-<!-- ========================= -->
-
-<div id="progress-bar"></div>
-
-<!-- ========================= -->
-<!-- Custom Cursor -->
-<!-- ========================= -->
-
-<div class="cursor"></div>
-
-<div class="cursor2"></div>
-
-<!-- ========================= -->
-<!-- Theme Switcher -->
-<!-- ========================= -->
-
-<div class="theme-switcher">
-
-<button class="theme-btn crimson" data-theme="crimson"></button>
-
-<button class="theme-btn blue" data-theme="blue"></button>
-
-<button class="theme-btn purple" data-theme="purple"></button>
-
-<button class="theme-btn green" data-theme="green"></button>
-
-<button class="theme-btn orange" data-theme="orange"></button>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Subhash%20Thakur&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20•%20Web%20Developer%20•%20B.Tech%20CSE&descAlignY=58"/>
 
 </div>
 
-<!-- ========================= -->
-<!-- Navigation -->
-<!-- ========================= -->
+---
 
-<header>
+# 💫 About Me
 
-<nav class="navbar">
+```java
+public class Subhash {
 
-<div class="logo">
+    String education = "B.Tech CSE (3rd Semester)";
+    String role = "Aspiring Full Stack Developer";
 
-<h2>SUBHASH</h2>
+    String[] currentlyLearning = {
+        "Java",
+        "Data Structures & Algorithms",
+        "Web Development",
+        "Git & GitHub"
+    };
 
-</div>
+    String goal = "Become a Professional Software Engineer";
 
-<ul class="nav-links">
+}
+```
 
-<li><a href="#home">Home</a></li>
+* 🎓 B.Tech Computer Science Engineering Student
+* 💻 Passionate about Java Development
+* 🌱 Currently learning Full Stack Development
+* 📚 Solving Data Structures & Algorithms problems
+* 🚀 Building real-world projects
+* 🎯 Goal: Crack top product-based companies
 
-<li><a href="#about">About</a></li>
+---
 
-<li><a href="#skills">Skills</a></li>
+# 🌐 Connect With Me
 
-<li><a href="#projects">Projects</a></li>
+<p align="center">
 
-<li><a href="#education">Education</a></li>
+<a href="https://www.linkedin.com/in/subhash-thakur-4u/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<li><a href="#contact">Contact</a></li>
+<a href="https://github.com/buildwithsubhash">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</ul>
-
-<div class="nav-right">
-
-<button id="darkMode">
-
-<i class="fas fa-moon"></i>
-
-</button>
-
-<div class="menu-btn">
-
-<i class="fas fa-bars"></i>
-
-</div>
-
-</div>
-
-</nav>
-
-</header>
-
-<!-- ========================= -->
-<!-- Hero -->
-<!-- ========================= -->
-
-<section class="hero" id="home">
-
-<div id="particles-js"></div>
-
-<div class="hero-content">
-
-<div class="hero-left" data-aos="fade-right">
-
-<h4>Hello, I'm</h4>
-
-<h1>
-
-Subhash
-
-<span>Thakur</span>
-
-</h1>
-
-<h3>
-
-<span id="typing"></span>
-
-</h3>
-
-<p>
-
-Passionate B.Tech CSE student focused on creating modern,
-responsive and high-performance web applications while
-continuously learning Java, DSA and Full Stack Development.
+<a href="https://leetcode.com/u/buildwithsubhash/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </p>
 
-<div class="hero-buttons">
+---
 
-<a href="#projects" class="btn">
+# 💻 Tech Stack
 
-View Projects
+## Languages
 
-</a>
+<p>
 
-<a href="#contact" class="btn-outline">
+<img src="https://skillicons.dev/icons?i=java,c,html,css,js"/>
 
-Hire Me
+</p>
 
-</a>
+## Frameworks & Libraries
 
-</div>
+<p>
 
-<div class="socials">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
 
-<a href="#">
+</p>
 
-<i class="fab fa-github"></i>
+## Database
 
-</a>
+<p>
 
-<a href="#">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-<i class="fab fa-linkedin"></i>
+</p>
 
-</a>
+## Tools
 
-<a href="#">
+<p>
 
-<i class="fab fa-instagram"></i>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma"/>
 
-</a>
+</p>
 
-<a href="#">
+---
 
-<i class="fab fa-x-twitter"></i>
+# 🚀 Currently Learning
 
-</a>
+```text
+██████████░░░░░░░░  Java
 
-</div>
+████████░░░░░░░░░░  DSA
 
-</div>
+███████░░░░░░░░░░░  React
 
-<div class="hero-right" data-aos="fade-left">
+██████░░░░░░░░░░░░  Node.js
 
-<div class="image-wrapper">
+█████████░░░░░░░░░ Git & GitHub
+```
 
-<div class="glow"></div>
+---
 
-<img src="assets/profile.png" alt="Subhash">
+# 📊 GitHub Analytics
 
-</div>
+<div align="center">
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=buildwithsubhash&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div class="scroll-down">
-
-<span></span>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithsubhash&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-</section>
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithsubhash&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsubhash&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=buildwithsubhash&theme=tokyonight&margin-w=15&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 💼 Featured Projects
+
+### 🚀 Tour Wallet
+
+A smart group expense management application for trips with shared wallets, settlements, and payment tracking.
+
+### ☕ Java Notes
+
+Comprehensive Java notes designed for Bihar Engineering University students.
+
+### 📘 DSA Book
+
+Complete Data Structures & Algorithms notes with BEU syllabus coverage.
+
+### 🌐 Portfolio Website
+
+Modern responsive portfolio showcasing projects and skills.
+
+---
+
+# 🧠 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/buildwithsubhash?theme=dark&font=Space%20Grotesk&ext=contest"/>
+
+</div>
+
+---
+
+# 📌 Goals for 2026
+
+* ✅ Master Java
+* ✅ Complete DSA
+* ✅ Learn React
+* ✅ Learn Node.js
+* ✅ Build 10+ Projects
+* ✅ Contribute to Open Source
+* ✅ Solve 500+ LeetCode Problems
+
+---
+
+# ☕ Fun Fact
+
+> **"Consistency beats talent when talent isn't consistent."**
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+
+</div>
