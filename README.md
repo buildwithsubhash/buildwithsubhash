@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="./banner.png"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Subhash%20Thakur&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Java%20Developer%20%7C%20Full%20Stack%20Learner%20%7C%20B.Tech%20CSE&descAlignY=58&animation=fadeIn"/>
 
 # Hi 👋 I'm Subhash Thakur
