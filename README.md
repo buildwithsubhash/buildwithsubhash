@@ -1,10 +1,23 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Subhash+Thakur;B.Tech+CSE+Student;Java+Developer+%7C+Web+Developer;Learning+DSA+%26+Full+Stack+Development;Building+Projects+Every+Day+🚀" />
-
 <div align="center">
 
-# 🚀 Welcome to My GitHub
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Subhash%20Thakur&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Java%20Developer%20%7C%20Full%20Stack%20Learner%20%7C%20B.Tech%20CSE&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Subhash%20Thakur&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20•%20Web%20Developer%20•%20B.Tech%20CSE&descAlignY=58"/>
+# Hi 👋 I'm Subhash Thakur
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Developer;Full+Stack+Developer+in+Progress;DSA+Learner;Open+Source+Enthusiast;Building+Projects+Every+Day+🚀"/>
+
+<p>
+<a href="https://github.com/buildwithsubhash">
+<img src="https://img.shields.io/github/followers/buildwithsubhash?label=Followers&logo=github&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/buildwithsubhash?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=buildwithsubhash&style=for-the-badge&color=0e75b6"/>
+
+</p>
 
 </div>
 
@@ -15,27 +28,31 @@
 ```java
 public class Subhash {
 
-    String education = "B.Tech CSE (3rd Semester)";
-    String role = "Aspiring Full Stack Developer";
+    String role = "Java Developer";
 
-    String[] currentlyLearning = {
+    String education = "B.Tech CSE";
+
+    String[] learning = {
         "Java",
         "Data Structures & Algorithms",
-        "Web Development",
-        "Git & GitHub"
+        "React",
+        "Node.js",
+        "Spring Boot"
     };
 
-    String goal = "Become a Professional Software Engineer";
+    String goal =
+        "Become a Software Engineer at a Product-Based Company";
 
 }
 ```
 
-* 🎓 B.Tech Computer Science Engineering Student
-* 💻 Passionate about Java Development
-* 🌱 Currently learning Full Stack Development
-* 📚 Solving Data Structures & Algorithms problems
-* 🚀 Building real-world projects
-* 🎯 Goal: Crack top product-based companies
+### 🚀 Current Focus
+
+- 🌱 Learning **Java, DSA & Full Stack Development**
+- 💻 Building real-world projects
+- 📚 Improving problem-solving skills
+- ⚡ Exploring Open Source
+- 🎯 Preparing for Software Engineering roles
 
 ---
 
@@ -47,12 +64,16 @@ public class Subhash {
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/buildwithsubhash/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 <a href="https://github.com/buildwithsubhash">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/buildwithsubhash/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -61,53 +82,24 @@ public class Subhash {
 
 # 💻 Tech Stack
 
-## Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,c,html,css,js"/>
-
-</p>
-
-## Frameworks & Libraries
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
-
-</p>
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma"/>
+<img src="https://skillicons.dev/icons?i=java,c,html,css,js,react,nodejs,express,mysql,mongodb,git,github,vscode,idea&perline=7"/>
 
 </p>
 
 ---
 
-# 🚀 Currently Learning
+# 📚 Currently Learning
 
-```text
-██████████░░░░░░░░  Java
-
-████████░░░░░░░░░░  DSA
-
-███████░░░░░░░░░░░  React
-
-██████░░░░░░░░░░░░  Node.js
-
-█████████░░░░░░░░░ Git & GitHub
-```
+| Technology | Progress |
+|------------|----------|
+| Java | ██████████░░ 80% |
+| DSA | ████████░░░░ 70% |
+| HTML/CSS | ███████████░ 90% |
+| JavaScript | ████████░░░░ 75% |
+| React | ██████░░░░░░ 60% |
+| Node.js | █████░░░░░░░ 50% |
 
 ---
 
@@ -127,7 +119,7 @@ public class Subhash {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithsubhash&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=buildwithsubhash&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -143,11 +135,11 @@ public class Subhash {
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=buildwithsubhash&theme=tokyonight&margin-w=15&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=buildwithsubhash&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -157,19 +149,25 @@ public class Subhash {
 
 ### 🚀 Tour Wallet
 
-A smart group expense management application for trips with shared wallets, settlements, and payment tracking.
+A smart expense-sharing application for group trips with settlements, history, and wallet management.
+
+---
 
 ### ☕ Java Notes
 
-Comprehensive Java notes designed for Bihar Engineering University students.
+Comprehensive Java notes based on the BEU syllabus with examples and interview questions.
+
+---
 
 ### 📘 DSA Book
 
-Complete Data Structures & Algorithms notes with BEU syllabus coverage.
+A complete Data Structures & Algorithms guide designed for engineering students.
+
+---
 
 ### 🌐 Portfolio Website
 
-Modern responsive portfolio showcasing projects and skills.
+A modern responsive developer portfolio showcasing projects and skills.
 
 ---
 
@@ -177,34 +175,45 @@ Modern responsive portfolio showcasing projects and skills.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/buildwithsubhash?theme=dark&font=Space%20Grotesk&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/buildwithsubhash?theme=dark&font=Nunito&ext=contest"/>
 
 </div>
 
 ---
 
-# 📌 Goals for 2026
+# 🎯 2026 Goals
 
-* ✅ Master Java
-* ✅ Complete DSA
-* ✅ Learn React
-* ✅ Learn Node.js
-* ✅ Build 10+ Projects
-* ✅ Contribute to Open Source
-* ✅ Solve 500+ LeetCode Problems
+- ✅ Master Java
+- ✅ Master DSA
+- ✅ Learn Spring Boot
+- ✅ Learn React
+- ✅ Learn Node.js
+- ✅ Build 15+ Projects
+- ✅ Contribute to Open Source
+- ✅ Solve 500+ LeetCode Problems
 
 ---
 
-# ☕ Fun Fact
+# 📊 Coding Activity
 
-> **"Consistency beats talent when talent isn't consistent."**
+<!--START_SECTION:waka-->
+Coming Soon...
+<!--END_SECTION:waka-->
+
+---
+
+# 💡 Quote
+
+> **"Success is built one commit at a time."**
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
+## ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+### Happy Coding 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer"/>
 
 </div>
