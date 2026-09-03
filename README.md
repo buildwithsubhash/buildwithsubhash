@@ -112,8 +112,8 @@ public class SubhashThakur {
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
+<a href="https://leetcode.com/u/buildwithsubhash/">
+  <img src="https://leetcard.jacoblin.cool/buildwithsubhash/?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
 </a>
 
 </div>
