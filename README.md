@@ -53,7 +53,7 @@ public class SubhashThakur {
 - 🚀 Building strong foundations in **DSA** and **Full-Stack Development**
 - 🌱 Currently exploring **Backend Engineering** & **System Design**
 - 💡 Believer in *"The best way to predict the future is to create it."*
-- 📫 Reach me at **YOUR_EMAIL@gmail.com**
+- 📫 Reach me at **SUBHASH.THAKUR.TECH@gmail.com**
 
 <br clear="right"/>
 
