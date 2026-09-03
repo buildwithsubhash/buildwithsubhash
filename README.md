@@ -1,219 +1,188 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SUBHASH THAKUR — GITHUB PROFILE               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-<img src="./banner.png"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Subhash%20Thakur&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Java%20Developer%20%7C%20Full%20Stack%20Learner%20%7C%20B.Tech%20CSE&descAlignY=58&animation=fadeIn"/>
 
-# Hi 👋 I'm Subhash Thakur
+<!-- Banner -->
+<img src="./banner.png" alt="Subhash Thakur Banner" width="100%" style="border-radius: 12px;" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Developer;Full+Stack+Developer+in+Progress;DSA+Learner;Open+Source+Enthusiast;Building+Projects+Every+Day+🚀"/>
+<br/><br/>
 
-<p>
-<a href="https://github.com/buildwithsubhash">
-<img src="https://img.shields.io/github/followers/buildwithsubhash?label=Followers&logo=github&style=for-the-badge"/>
+<!-- Animated Typing Intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Hi%2C+I'm+Subhash+Thakur+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+Aspiring+Software+Engineer;Code.+Learn.+Build.+Repeat.;Turning+ideas+into+impactful+solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<a href="https://github.com/buildwithsubhash?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge"/>
-</a>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=buildwithsubhash&style=for-the-badge&color=0e75b6"/>
-
-</p>
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=buildwithsubhash&label=Profile%20Views&color=FF6B00&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/buildwithsubhash?label=Followers&style=for-the-badge&color=FF6B00&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/stars/buildwithsubhash?label=Stars&style=for-the-badge&color=FF6B00&logo=github&logoColor=white" alt="Stars" />
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-# 💫 About Me
+<!-- ═══════════════════════════ ABOUT ME ═══════════════════════════ -->
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+## 🧑‍💻 About Me
 
 ```java
-public class Subhash {
+public class SubhashThakur {
 
-    String role = "Java Developer";
+    String  name      = "Subhash Thakur";
+    String  role      = "B.Tech CSE Student";
+    String  goal      = "Skilled Software Engineer";
+    String  motto     = "Code. Learn. Build. Repeat.";
 
-    String education = "B.Tech CSE";
+    String[] learning = { "Data Structures", "Algorithms",
+                          "Web Development", "Backend Development" };
 
-    String[] learning = {
-        "Java",
-        "Data Structures & Algorithms",
-        "React",
-        "Node.js",
-        "Spring Boot"
-    };
-
-    String goal =
-        "Become a Software Engineer at a Product-Based Company";
-
+    boolean openToCollaborate() { return true; }
 }
+
+
 ```
 
-### 🚀 Current Focus
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering**
+- 🚀 Building strong foundations in **DSA** and **Full-Stack Development**
+- 🌱 Currently exploring **Backend Engineering** & **System Design**
+- 💡 Believer in *"The best way to predict the future is to create it."*
+- 📫 Reach me at **YOUR_EMAIL@gmail.com**
 
-- 🌱 Learning **Java, DSA & Full Stack Development**
-- 💻 Building real-world projects
-- 📚 Improving problem-solving skills
-- ⚡ Exploring Open Source
-- 🎯 Preparing for Software Engineering roles
+<br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-# 🌐 Connect With Me
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
-<p align="center">
+## 🛠️ Tech Stack
 
-<a href="https://www.linkedin.com/in/subhash-thakur-4u/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+
+### 💻 Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css&theme=dark" />
 </a>
 
-<a href="https://leetcode.com/u/buildwithsubhash/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+### 🧰 Tools & Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark" />
 </a>
 
-<a href="https://github.com/buildwithsubhash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### 📚 Currently Learning
+<img src="https://img.shields.io/badge/Data_Structures-FF6B00?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Algorithms-FF6B00?style=for-the-badge&logo=thealgorithms&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Development-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend_Development-FF6B00?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=buildwithsubhash&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&ring_color=FF6B00&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithsubhash&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithsubhash&theme=dark&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsubhash&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B00&hide_border=true" width="100%" alt="Activity Graph" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ LEETCODE ═══════════════════════════ -->
+
+## 🧩 LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=buildwithsubhash&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buildwithsubhash/buildwithsubhash/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buildwithsubhash/buildwithsubhash/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/buildwithsubhash/buildwithsubhash/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/subhash-thakur-4u/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/buildwithsubhash" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/buildwithsubhash/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="mailto:subhash.thakur.tech@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-</p>
+<br/><br/>
 
----
+<!-- Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" alt="Quote" />
 
-# 💻 Tech Stack
+<br/><br/>
 
-<p align="center">
+### 💬 *"Code. Learn. Build. Repeat."*
 
-<img src="https://skillicons.dev/icons?i=java,c,html,css,js,react,nodejs,express,mysql,mongodb,git,github,vscode,idea&perline=7"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-| Technology | Progress |
-|------------|----------|
-| Java | ██████████░░ 80% |
-| DSA | ████████░░░░ 70% |
-| HTML/CSS | ███████████░ 90% |
-| JavaScript | ████████░░░░ 75% |
-| React | ██████░░░░░░ 60% |
-| Node.js | █████░░░░░░░ 50% |
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=buildwithsubhash&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithsubhash&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%AD%90+Star+some+repos+if+you+like+them;Open+to+collaborations+and+opportunities+%F0%9F%9A%80" alt="Footer Typing" />
 
 </div>
 
----
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:1a0a00&height=120&section=footer" width="100%" />
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=buildwithsubhash&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithsubhash&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=buildwithsubhash&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 💼 Featured Projects
-
-### 🚀 Tour Wallet
-
-A smart expense-sharing application for group trips with settlements, history, and wallet management.
-
----
-
-### ☕ Java Notes
-
-Comprehensive Java notes based on the BEU syllabus with examples and interview questions.
-
----
-
-### 📘 DSA Book
-
-A complete Data Structures & Algorithms guide designed for engineering students.
-
----
-
-### 🌐 Portfolio Website
-
-A modern responsive developer portfolio showcasing projects and skills.
-
----
-
-# 🧠 LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/buildwithsubhash?theme=dark&font=Nunito&ext=contest"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Java
-- ✅ Master DSA
-- ✅ Learn Spring Boot
-- ✅ Learn React
-- ✅ Learn Node.js
-- ✅ Build 15+ Projects
-- ✅ Contribute to Open Source
-- ✅ Solve 500+ LeetCode Problems
-
----
-
-# 📊 Coding Activity
-
-<!--START_SECTION:waka-->
-Coming Soon...
-<!--END_SECTION:waka-->
-
----
-
-# 💡 Quote
-
-> **"Success is built one commit at a time."**
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-### Happy Coding 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer"/>
-
-</div>
