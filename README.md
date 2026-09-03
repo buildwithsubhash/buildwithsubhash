@@ -179,7 +179,7 @@ public class SubhashThakur {
 
 ### 💬 *"Code. Learn. Build. Repeat."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%AD%90+Star+some+repos+if+you+like+them;Open+to+collaborations+and+opportunities+%F0%9F%9A%80" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FF6B00&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+%E2%AD%90+Star+some+repos+if+you+like+them;Open+to+collaborations+and+opportunities+%F0%9F%9A%80" alt="Footer Typing" />
 
 </div>
 
